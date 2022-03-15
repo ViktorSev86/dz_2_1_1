@@ -230,7 +230,7 @@ class Dz_2_1_1KtTest {
         val result = calculatePrice(type = typ, lastTranz = lastTran, lastSutTranz = lastSutTran, tranz = newTran)
 
         // assert
-        assertEquals(0, result)
+        assertEquals(100, result)
     }
 
 }
