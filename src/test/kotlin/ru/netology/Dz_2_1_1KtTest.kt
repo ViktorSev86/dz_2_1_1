@@ -232,5 +232,4 @@ class Dz_2_1_1KtTest {
         // assert
         assertEquals(0, result)
     }
-
 }
